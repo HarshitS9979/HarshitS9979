@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+There!+👋;+I'm+Harshit Kumar Singh;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=1000&lines=Hi+There!+👋;I'm+Harshit+Kumar+Singh;Welcome+to+my+GitHub!;" />
 </h1>
 
 <!-- <br/> -->
@@ -8,7 +8,7 @@
 
  🔭 I’m currently working on **influed**
  
- 🔭 I’m a 2024 grad. from **Chandigarh University**
+ ⚡ I’m a 2024 grad. from **Chandigarh University**
  
  🌱 I’m currently mastering **Data Structures & Algorithms**
 
@@ -17,10 +17,10 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:harshit9799singh@gmail.com">
+ <a href="mailto:harshit9799singh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/kumarharshitsingh//" target="_blank">
+  <a href="https://www.linkedin.com/in/kumarharshitsingh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Harshit_9799/" target="_blank">
